@@ -1,0 +1,15 @@
+/* CSS Entry Point */
+
+body {
+  background: darken(#223366, 12%);
+  position: relative;
+}
+
+.star {
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+  background: white;
+  position: absolute;
+  transition: background 0.2s;
+}
